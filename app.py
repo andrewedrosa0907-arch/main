@@ -1,8 +1,4 @@
-import streamlit as st
-import yfinance as yf
-from datetime import datetime
-
-# ================= UI CONFIG =================
+============
 st.set_page_config(layout="wide")
 st.title("📊 Macro Scalper Dashboard")
 
